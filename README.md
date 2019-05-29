@@ -1,2 +1,2 @@
 
-https://magomalsa.github.io/flexbox-minefield/
+https://magomalsa.github.io/flexbox-minefield/minefield.html
